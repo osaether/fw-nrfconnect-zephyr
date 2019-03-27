@@ -22,7 +22,7 @@
  */
 
 &slot0_partition {
-	reg = <0x00010000 0x30000>;
+	reg = <0x00010000 0x70000>;
 };
 
 &slot0_ns_partition {
@@ -30,7 +30,7 @@
 };
 
 &slot1_partition {
-	reg = <0x00080000 0x30000>;
+	reg = <0x00080000 0x70000>;
 };
 
 &slot1_ns_partition {
